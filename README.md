@@ -12,6 +12,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Canllama&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Canllama&theme=dracula&hide_border=false&include_all_commits=true&count_private=trye&hide=php&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
