@@ -1,6 +1,5 @@
 # 💫 About Me:
 👋 Hi, I’m @canllama<br>
-🔭 I'm currently working with G2 eSports<br>
 ⚡ Shopify expert<br>☘️ JS, React, Scss<br>
 💞️ I’m looking to collaborate on Shopify apps
 
